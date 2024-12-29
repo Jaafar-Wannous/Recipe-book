@@ -157,7 +157,7 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to reach out if you have any questions or suggestions:
 
 - GitHub: [Jaafar-Wannous](https://github.com/Jaafar-Wannous)
-- Email: [YourEmail@example.com](mailto\:YourEmail@example.com)
+- Email: jaafarwannous1@gmail.com(mailto\:YourEmail@example.com)
 
 ---
 
